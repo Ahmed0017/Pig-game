@@ -15,9 +15,6 @@ init();
 
 document.querySelector('.dice').style.display = 'none';
 
-function btn() {
-    // do somthing
-}
 
 document.querySelector('.btn-roll').addEventListener('click', function() {
     
